@@ -1,3 +1,4 @@
 # Table of contents
 
-* [C#-tutorial](README.md)
+* [C# Karakalpakstan](README.md)
+* [c# tutorial](c-tutorial.md)
